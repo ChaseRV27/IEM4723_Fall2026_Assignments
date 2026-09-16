@@ -9,3 +9,9 @@ docker push chaserv27/linear-regression-app:latest
 # Question 2
 docker build -t linear-regression-volume:latest .
 docker run --rm --volume "$(pwd)/data:/home/iem4723/data" linear-regression-volume:latest
+ls data
+# Question 3
+docker build -t logistic_regression_layered:latest .
+docker run --rm logistic_regression_layered:latest ls /home/iem4723/
+docker run --rm --volume "$(pwd)/data:/home/iem4723/data" logistic_regression_layered:latest
+ls data
