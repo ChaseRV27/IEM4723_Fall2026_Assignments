@@ -15,3 +15,7 @@ docker build -t logistic_regression_layered:latest .
 docker run --rm logistic_regression_layered:latest ls /home/iem4723/
 docker run --rm --volume "$(pwd)/data:/home/iem4723/data" logistic_regression_layered:latest
 ls data
+# Question 4
+docker build -t simple-file-server:latest . 
+docker run --rm -d --name simple-file-server --publish 3333:8000 simple-file-server:latest
+docker stop simple-file-server
