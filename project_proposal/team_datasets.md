@@ -20,3 +20,7 @@ Please add your team's details below by submitting a pull request or filling out
 ### Team Name: The Crash Analysts
 - **Team Members:** Morrow Entrekin, Elanor Mehen, and Abby Emert
 - **Dataset:** https://catalog.data.gov/dataset/traffic-crashes-crashes?from_hint=eyJzb3J0IjoicG9wdWxhcml0eSIsInEiOiJEZXBhcnRtZW50IG9mIFRyYW5zcG9ydGF0aW9uIiwic3BhdGlhbF9maWx0ZXIiOiIifQ%3D%3D
+
+### Team Name: The Power Rangers
+- **Team Members:** Micah Bullard, Dayton McCall, Malte Kuhn
+- **Dataset:** [EIA Electric Power Data by Month and State](https://www.eia.gov/electricity/monthly/) — Appendix C
