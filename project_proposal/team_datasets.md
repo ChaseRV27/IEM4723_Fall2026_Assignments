@@ -4,7 +4,7 @@ Please add your team's details below by submitting a pull request or filling out
 **Datasets are assigned on a first-come, first-served basis, determined by PR submission time.**
 
 
-## Instructions
+## Instructions 
 1. **Team Name** — Choose a unique name for your team.
 2. **Team Members** — List all team members, separated by commas.
 3. **Dataset Used** — Provide the name of the dataset as a markdown link to its source (e.g., Kaggle, UCI, GitHub repo).
@@ -24,3 +24,7 @@ Please add your team's details below by submitting a pull request or filling out
 ### Team Name: The Power Rangers
 - **Team Members:** Micah Bullard, Dayton McCall, Malte Kuhn
 - **Dataset:** [EIA Electric Power Data by Month and State](https://www.eia.gov/electricity/monthly/) — Appendix C
+
+### Team Name: ZAC Analysts
+- **Team Members:** Zachary Pontikes, Abbey Hagen, Chase Vining
+- **Dataset:** [Kaggle: Supermarket Sales Dataset](https://www.kaggle.com/datasets/faresashraf1001/supermarket-sales)
